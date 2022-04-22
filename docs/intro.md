@@ -21,7 +21,9 @@ As more game companies populate the metaverse, PAN works as a bridge connecting 
 ## Mission
 
 We want to help game companies join the blockchain industry and offer new opportunities for players to buy content and collectibles, as well as turn these items into assets. By closely following the NFT market, we understood that the game industry could as well take the opportunity to expand its products and services.
+
 But in spite of blockchain technology being developed to make things simpler, there are still a lot of specifics when it comes to regulamentation, operations, and the use of the technology itself. PAN wants to facilitate the exchanges between game companies and players while using a seamless blockchain-based ecosystem that offers advantageable opportunities for all sides.
+
 Working as an initiator of metaverses, the PAN-X platform “bypasses” cutting edge technology to make it simpler to understand and use, thus allowing deeper and broader innovation in the sector. We believe our technology is fundamental for game companies which are aiming to build and merge their own metaverses, thus entering this new era of the internet.
 
 ## Value proposition
@@ -56,10 +58,10 @@ Polygon uses a modified proof-of-stake (PoS) blockchain mechanism which grants t
 
 To put Polygon’s carbon footprint in perspective, here are some equivalents made available by the platform for how much emission the blockchain creates yearly:
 
+![PAN](/img/grap2.png)
+
 :::note source
 
 https://blog.polygon.technology/polygon-the-eco-friendly-blockchain-scaling-ethereum-bbdd52201ad/ 
 
 :::
-
-![PAN](/img/grap2.png)
